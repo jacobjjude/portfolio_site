@@ -1,0 +1,35 @@
+.contact-content {
+    width: 100%
+}
+
+.contact-main-content {
+    display: flex;
+    border: 1px solid red;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+.contact-form-section {
+    border: 1px solid green;
+}
+
+.form-container {
+    border: 1px solid white;
+}
+
+.social-sidebar {
+    border: 1px solid teal;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.icon {
+    font-size: 50px;
+    color: #ffe5ff;
+}

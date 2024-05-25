@@ -8,6 +8,7 @@ import Blog from "./pages/blog";
 import Contact from "./pages/contact";
 import Home from "./pages/home";
 import Resume from "./pages/resume";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "./styles/App.css";
 
 function App() {

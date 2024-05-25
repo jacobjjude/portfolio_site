@@ -32,25 +32,6 @@ function Header() {
             </li>
           </ul>
         </nav>
-        <div class="header-extras">
-          <div class="social-media">
-            <a
-              href="https://github.com/jacobjjude?tab=repositories"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Github
-            </a>
-            <a
-              href="https://www.linkedin.com/in/jacob-jude/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              LinkedIn
-            </a>
-            <button class="btn cta-button">Contact Me</button>
-          </div>
-        </div>
       </div>
     </header>
   );
